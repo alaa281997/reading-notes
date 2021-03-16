@@ -9,5 +9,4 @@
 - **Effort** 
   -  I shouldn't give up easily I should work hard. 
  
- 
-![Growth mindset](https://miro.medium.com/max/700/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg) 
+ ![Growth mindset](https://miro.medium.com/max/700/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg) 
