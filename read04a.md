@@ -9,6 +9,8 @@ some of this react to events
 Then we got acquainted with the term ** Script ** is a series of instructions that a computer can follow step by step to achieve a goal. Briefly, the script is just a series of short
 instructions.
 ### **steps before strat:**
+| Step            |            Descriptions                                                     |
+| -----------     |                       -----------                                           |
 |DEFINE THE GOAL  |Define the task you want to achieve                                          |
 |DESIGN THE SCRIPT|Design a script you split the goal out into a series of tasks using flowchart|
 |CODE EACH STEP   |Needs to be written in a programming language                                |
@@ -18,6 +20,8 @@ instructions.
 create a single value from one or more values. 
 
 ### **mathematical operators** 
+| operators    |Sym|
+| ---------    |---|
 |Addition      | + |
 |Subtraction   | - |
 |Division      | / |
