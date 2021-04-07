@@ -120,7 +120,7 @@ additional element setting the clear property to have a value
 of both. But this meant that an extra element was added to the
 HTML just to fix the height of the containing element.
 
-Multi column Layouts  Many web pages use multiple
+Multi column Layouts  Many web pages use multiple 
 columns in their design. This is achieved by using a <div>
 element to represent each column. The following three CSS
 properties are used to position the columns next to each other:
