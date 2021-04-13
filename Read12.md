@@ -1,24 +1,21 @@
 # Read class 12
 
->Chart.js API.
+> Chart.js API.
 Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
 
-> Setting up
-> The first thing we need to do is download Chart.js.
- <script src='Chart.min.js'></script>
+ Setting up
+ The first thing we need to do is download Chart.js.
+
 
 - Drawing a line chart
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart.
-<canvas id="buyers" width="600" height="400"></canvas>
 
 - Drawing a pie chart
 Our line chart is complete, so let’s move on to our pie chart. First, we need the canvas element:
-<canvas id="countries" width="600" height="400"></canvas>
 
 - Drawing a bar chart
 Finally, let’s add  a bar chart to our page. Happily the syntax for the bar chart is very similar to the line chart we’ve already added. First, we add the canvas element:
 
-<canvas id="income" width="600" height="400"></canvas>
 
 
 > Creating a Chart
@@ -28,7 +25,6 @@ It's easy to get started with Chart.js. All that's required is the script includ
 
 
 > The <canvas> element
-<canvas id="tutorial" width="150" height="150"></canvas>
 At first sight a <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
 
 > The <canvas> element differs from an <img> tag in that, like for <video>, <audio>, or <picture> elements, it is easy to define some fallback content, to be displayed in older browsers not supporting it, like versions of Internet Explorer earlier than version 9 or textual browsers. You should always provide fallback content to be displayed by those browsers.
