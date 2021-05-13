@@ -35,4 +35,28 @@
 | Read13a     | [URl](Read13a.md)                                        |
 | Read13b     | [URl](Read13b.md)                                        |
 | Read14      | [URl](Read14.md)                                         |
-| Read15      | [URl](Read15.md)                                         |
+| Read15      | [URl](Read15.md)                                         |   
+
+## *Code 301 - Intermediate Software Development*
+
+| Subject     | Link                                             |
+| ----------- | -----------                                      |
+| Read1       | [URl]()                                          |
+| Read2       | [URl]()                                          |
+| Read3       | [URl]()                                          |
+| Read4       | [URL]()                                          |
+| Read5       | [URl]()                                          |
+| Read6       | [URl]()                                          |
+| Read7       | [URl]()                                          |
+| Read8       | [URl]()                                          |
+| Read9       | [URl]()                                          |
+| Read10      | [URl]()                                          |
+| Read11      | [URl]()                                          |
+| Read12      | [URl]()                                          |
+| Read13      | [URl]()                                          |
+| Read14      | [URl]()                                          |
+| Read15      | [URl]()                                          |  
+
+
+
+## *Code 401 - Advanced Software Development*
