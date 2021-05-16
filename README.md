@@ -42,7 +42,7 @@
 | Subject     | Link                                             |
 | ----------- | -----------                                      |
 | Read1       | [URl]()                                          |
-| Read2       | [URl]()                                          |
+| Read2       | [URl](Readclass2_301.md)                                          |
 | Read3       | [URl]()                                          |
 | Read4       | [URL]()                                          |
 | Read5       | [URl]()                                          |
