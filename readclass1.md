@@ -43,3 +43,14 @@ Reliability − The overall system reliability increases since the reliability o
 System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
+
+
+## REACT Questions
+- What is props short for?
+React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
+
+- How are props used in React?
+“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+
+- What is the flow of props?
+  props are being passed in a uni-directional flow. (one way from parent to child)
