@@ -45,9 +45,9 @@
 | Read2       | [URl](Readclass2_301.md)                                          |
 | Read3       | [URl](readclass3.md)                                          |
 | Read4       | [URL](readclass4.md)                                          |
-| Read5       | [URl]()                                          |
-| Read6       | [URl]()                                          |
-| Read7       | [URl]()                                          |
+| Read5       | [URl](readclass5.md)                                          |
+| Read6       | [URl](readclass6.md)                                          |
+| Read7       | [URl](readclass7.md)                                          |
 | Read8       | [URl]()                                          |
 | Read9       | [URl]()                                          |
 | Read10      | [URl]()                                          |
