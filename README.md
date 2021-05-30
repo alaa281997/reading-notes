@@ -52,7 +52,7 @@
 | Read9       | [URl](readclass9.md)                                          |
 | Read10      | [URl](readclass10.md)                                          |
 | Read11      | [URl](Readclass11.md)                                          |
-| Read12      | [URl]()                                          |
+| Read12      | [URl](Readclass12.md)                                          |
 | Read13      | [URl]()                                          |
 | Read14      | [URl]()                                          |
 | Read15      | [URl]()                                          |  
