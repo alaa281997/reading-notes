@@ -68,8 +68,8 @@
 | Read3       | [URl](read3.md)                                          |
 | Read4       | [URL](read4(401).md)                                          |
 | Read5       | [URl](read5(401).md)                                          |
-| Read6       | [URl](read6(401).md)                                          |
-| Read7       | [URl]()                                          |
+| Read6       | [URl](read6(401).md)                   |
+| Read7       | [URl](read7(401).md)                                          |
 | Read8       | [URl]()                                          |
 | Read9       | [URl]()                                          |
 | Read10      | [URl]()                                          |
