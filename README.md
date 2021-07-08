@@ -69,10 +69,10 @@
 | Read4       | [URL](read4(401).md)                                          |
 | Read5       | [URl](read5(401).md)                                          |
 | Read6       | [URl](read6(401).md)                   |
-| Read7       | [URl](read7(401).md)                                          |
-| Read8       | [URl]()                                          |
-| Read9       | [URl]()                                          |
-| Read10      | [URl]()                                          |
+| Read7       | [URl]()                                          |
+| Read8       | [URl](read8(401).md)                                          |
+| Read9       | [URl](Read9(401).md)                                          |
+| Read10      | [URl](read10(401).md)                              |
 | Read11      | [URl]()                                          |
 | Read12      | [URl]()                                          |
 | Read13      | [URl]()                                          |
