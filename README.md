@@ -74,7 +74,7 @@
 | Read9       | [URl](Read9(401).md)                                          |
 | Read10      | [URl](read10(401).md)                              |
 | Read11      | [URl](Read11(401).md)                                          |
-| Read12      | [URl]()                                          |
+| Read12      | [URl](read12(401).md)                                          |
 | Read13      | [URl]()                                          |
 | Read14      | [URl]()                                          |
 | Read15      | [URl]()                                          |  
