@@ -82,13 +82,8 @@
 | Read17      | [URl](read17(401).md)                                          |
 | Read18      | [URl](read18(401).md)                                          |
 | Read19      | [URL](read19(401).md)                                          |
-| Read20      | [URl]()                                          |
-| Read21      | [URl]()                                          |
-| Read22      | [URl]()                                          |
-| Read23      | [URl]()                                          |
-| Read24      | [URl]()                                          |
-| Read25      | [URl]()                                          |
-| Read26      | [URl]()                                          |
+| Read20 - 25      | *Project week*                                         |
+| Read26      | [URl](read26(401).md)                                          |
 | Read27      | [URl]()                                          |
 | Read28      | [URl]()                                          |
 | Read29      | [URl]()                                          |
