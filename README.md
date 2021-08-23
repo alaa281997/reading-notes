@@ -92,10 +92,10 @@
 | Read32      | [URl](read32(401).md)                                          |
 | Read33      | [URl](read33(401).md)                                          |
 | Read34      | [URL](read34(401).md)                                          |
-| Read35      | [URl]()                                          |
-| Read36      | [URl]()                                          |
-| Read37      | [URl]()                                          |
-| Read38      | [URl]()                                          |
+| Read35      | [URl](read35(401).md)                                          |
+| Read36      | [URl](read36(401).md)                                          |
+| Read37      | [URl](read37(401).md)                                          |
+| Read38      | [URl](read38(401).md)                                          |
 | Read39      | [URl]()                                          |
 | Read40      | [URl]()                                          |
 | Read41      | [URl]()                                          |
