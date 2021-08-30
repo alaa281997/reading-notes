@@ -1,6 +1,6 @@
 # **My reading notes**
 
-#### Hello, This is Alaa Al-Abbas I am software engineer specialist find my reading notes in the tables bellow:
+#### Hello, This is Alaa Al-Abbas I am software engineer specialist find my reading notes during Full Stack web development course in the tables bellow:
 
 
 ## *Code 102 Reading Notes*
