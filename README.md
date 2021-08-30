@@ -96,9 +96,9 @@
 | Read36      | [URl](read36(401).md)                                          |
 | Read37      | [URl](read37(401).md)                                          |
 | Read38      | [URl](read38(401).md)                                          |
-| Read39      | [URl]()                                          |
-| Read40      | [URl]()                                          |
-| Read41      | [URl]()                                          |
-| Read42      | [URl]()                                          |
-| Read43      | [URl]()                                          |
-| Read44      | [URl]()                                          |
+| Read39      | [URl](read39(401).md)                                          |
+| Read41      | [URl](read41(401).md)                                          |
+| Read42      | [URl](read42(401).md)                                          |
+| Read42.2     | [URl](read42(401)2.md)                                          |
+| Read43      | [URl](read43(401).md)                                          |
+| Read44      | [ERROR!]()                                          |
